@@ -1,5 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://datatok.io/'
+languageCode = 'fr'
+defaultContentLanguage = "fr"
 title = 'dataTok'
 theme = "bigspring-light"
 
