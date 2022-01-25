@@ -1,0 +1,14 @@
+[[main]]
+name = "Nos projets Open Sources"
+url = "projets-open-sources/"
+weight = 1
+
+[[main]]
+name = "Notre équipe d'Experts"
+url = "the-team/"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 4

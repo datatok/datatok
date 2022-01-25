@@ -1,0 +1,12 @@
+############################# Deutsch ############################
+[fr]
+languageName = "Fr"
+contentDir = "content/french" # content/german
+weight = 1
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = ""
+# copyright
+copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
