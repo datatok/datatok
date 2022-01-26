@@ -1,4 +1,4 @@
-baseURL = 'https://datatok.io/'
+baseURL = '/'
 languageCode = 'fr'
 defaultContentLanguage = "fr"
 title = 'dataTok'
